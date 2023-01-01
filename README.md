@@ -26,3 +26,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="100">
 </div>
+
+## Always Passionate to learn
+<div>
+<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+</div>
