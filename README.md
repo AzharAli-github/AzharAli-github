@@ -1,6 +1,6 @@
 # **AzharAli-github**
 ###### *Working as a web developer for 3+ Years*
-## Front-end Developer || React Dev || JavaScript Engineer
+## Front-end Developer || ReactJS Dev || Next.js || DevJavaScript Engineer
 ## Experties In:
 <div style:"display: flex;>
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="70">
