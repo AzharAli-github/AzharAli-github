@@ -26,7 +26,7 @@
 
 
 <div>
-   <div>## Top Languages
+   <div >## Top Languages
    [![Azhar Ali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAli-github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div> ## Stats
