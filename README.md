@@ -24,6 +24,7 @@
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="70">
  </div>
 
+## Top Languages
  [![Azhar Ali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAli-github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
