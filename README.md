@@ -25,9 +25,13 @@
  </div>
 
 
- ## Top Languages
-   [![Azhar Ali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAli-github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api?username=AzharAli-github" />
+## Top Languages
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAli-github&layout=compact&theme=radical" alt="Azhar Ali's Top Languages" style="border-radius: 5px; width: 330px; height: 240px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharAli-github&theme=radical" alt="Github Contribution Stats" style="border-radius: 5px; width: 330px; height: 240px;" />
+  </div>
+
 
 
  
